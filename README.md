@@ -36,4 +36,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 ## Mock-Up
+![Screen Shot 2022-05-12 at 0 01 40](https://user-images.githubusercontent.com/51127563/167995557-becf63b5-69f9-49ad-9577-cafd3a4ebe0e.png)
 
